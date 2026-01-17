@@ -94,4 +94,4 @@ while (i <= N) {
 // Print only the numbers that are both even and perfect squares
 for (let i = 2; i <= N; i += 2) {
     console.log(i * i)
-}
+} 
